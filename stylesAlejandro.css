@@ -25,3 +25,10 @@ main {
 main p {
     width: 75%;
 }
+
+img{
+    border: 4px solid #fff;
+    margin-top: 100px;
+    width: 300px;
+    border-radius: 10%;
+}
